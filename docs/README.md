@@ -55,6 +55,7 @@
 | PROG（2026-08-11） | [`PROG-20260811.md`](PROG-20260811.md) | Active | 首页编辑型视觉 Demo 进度、验证证据和下一步 |
 | PROG（2026-08-20） | [`PROG-20260820.md`](PROG-20260820.md) | Completed | 参考博客体验改造进度与验证证据 |
 | PROG（2026-08-23） | [`PROG-20260823.md`](PROG-20260823.md) | Completed | 移除初始示范文章的实施、发布与生产验收证据 |
+| PROG（2026-11-21） | [`PROG-20261121.md`](PROG-20261121.md) | Local preview | 两篇书屋学习笔记的本地预览、逐节配图与验证 |
 | BUG | [`BUG-20260724-01-windows-line-endings-break-format-check.md`](BUG-20260724-01-windows-line-endings-break-format-check.md) | Closed | Windows Git checkout 换行缺陷已通过 `.gitattributes` 修复并完成 `main` 根目录终验 |
 | BUG | [`BUG-20260725-01-netlify-stale-lab-route.md`](BUG-20260725-01-netlify-stale-lab-route.md) | Closed | Netlify Next 构建产物保留已删除的 `/lab` 路由，已通过静态导出修复 |
 | BUG | [`BUG-20260823-01-stale-netlify-domain.md`](BUG-20260823-01-stale-netlify-domain.md) | Confirmed | README 与 SEO 仍指向返回 404 的旧 Netlify 域名，待独立修复 |

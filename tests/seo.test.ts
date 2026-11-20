@@ -76,6 +76,8 @@ describe("Phase 6 SEO metadata", () => {
     expect(sitemap?.map((entry) => entry.url)).toEqual([
       "https://harmonious-sprite-8b742a.netlify.app/",
       "https://harmonious-sprite-8b742a.netlify.app/about",
+      "https://harmonious-sprite-8b742a.netlify.app/content/llm-wiki-notes-with-sources",
+      "https://harmonious-sprite-8b742a.netlify.app/content/tim-first-video",
       "https://harmonious-sprite-8b742a.netlify.app/content/elx-cncolor",
       "https://harmonious-sprite-8b742a.netlify.app/content/elx-level-project-workflow",
     ]);
